@@ -1,0 +1,123 @@
+{
+  "room-sencilla": {
+    "src": "assets/img/room-sencilla.jpg",
+    "title": "Modern Room",
+    "creator": "World Travel Adventures",
+    "creator_url": "https://stocksnap.io",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/modern-room-ORRHZ1VULX",
+    "source": "stocksnap"
+  },
+  "room-doble": {
+    "src": "assets/img/room-doble.jpg",
+    "title": "big bed",
+    "creator": "Joelk75",
+    "creator_url": "https://www.flickr.com/photos/75001512@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/75001512@N00/198784420",
+    "source": "flickr"
+  },
+  "location": {
+    "src": "assets/img/location.jpg",
+    "title": "Sabal palmetto (cabbage palm trees) (Sanibel Island, Florida, USA) 1 (24923087089)",
+    "creator": "James St. John",
+    "creator_url": "https://www.flickr.com/people/47445767@N05",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=83883331",
+    "source": "wikimedia"
+  },
+  "g5": {
+    "src": "assets/img/g5.jpg",
+    "title": "Barbecue Peppers",
+    "creator": "Daria Shevtsova",
+    "creator_url": "https://instagram.com/dash.shevtsova",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/barbecue-peppers-0B3MOGNELH",
+    "source": "stocksnap"
+  },
+  "g10": {
+    "src": "assets/img/g10.jpg",
+    "title": "Evan in a hammock",
+    "creator": "kahunapulej",
+    "creator_url": "https://www.flickr.com/photos/94937042@N00",
+    "license": "by-nc-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/94937042@N00/8356160851",
+    "source": "flickr"
+  },
+  "g11": {
+    "src": "assets/img/g11.jpg",
+    "title": "peace beach.",
+    "creator": "612gr",
+    "creator_url": "https://www.flickr.com/photos/23138441@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/23138441@N00/14186979478",
+    "source": "flickr"
+  },
+  "g12": {
+    "src": "assets/img/g12.jpg",
+    "title": "Train Track",
+    "creator": "*~Dawn~*",
+    "creator_url": "https://www.flickr.com/photos/12187063@N02",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/12187063@N02/2758645685",
+    "source": "flickr"
+  },
+  "g13": {
+    "src": "assets/img/g13.jpg",
+    "title": "Free pool water closeup image",
+    "creator": "Unknown",
+    "creator_url": null,
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/5921079/photo-image-texture-public-domain-blue",
+    "source": "rawpixel"
+  },
+  "g14": {
+    "src": "assets/img/g14.jpg",
+    "title": "Potential Energy",
+    "creator": "jurvetson",
+    "creator_url": "https://www.flickr.com/photos/44124348109@N01",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/44124348109@N01/396144661",
+    "source": "flickr"
+  },
+  "g15": {
+    "src": "assets/img/g15.jpg",
+    "title": "Ocean Water",
+    "creator": "Matt Moloney",
+    "creator_url": "https://mjmolo.com",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/ocean-water-LMMFQHNLEX",
+    "source": "stocksnap"
+  },
+  "g16": {
+    "src": "assets/img/g16.jpg",
+    "title": "Sea Ocean",
+    "creator": "Jakob Owens",
+    "creator_url": "https://stocksnap.io/author/29351",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/sea-ocean-BK11WKKOOC",
+    "source": "stocksnap"
+  }
+}
